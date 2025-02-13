@@ -34,5 +34,10 @@ Analyzing Smart Device Usage Trends for Bellabeat
   **Tasks:**
 - Download the dataset and store it in an organized folder.
 -  Understand the dataset structure – Identify column names, data types, and relationships.
--   Check for biases – The dataset only has 35 participants, which might not fully represent Bellabeat's target audience.
+ ## 3. Data Cleaning  (Process)
+- Im using sql because the data is big
+- I fix the data integrity using this code for :
 
+  1. Minute sleep merge
+     [SQL Querry](https://console.cloud.google.com/bigquery?sq=1039618084538:4cff56f03da34c1e828733829052eba6)) (Public Domain)
+  2. Heartrate seconds merge
