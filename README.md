@@ -31,3 +31,9 @@ Analyzing Smart Device Usage Trends for Bellabeat
       2. How can these trends apply to Bellabeat’s customers?
       
       3. How can Bellabeat use these trends in marketing?
+
+  **2️. Data Sources (Prepare)**
+
+      - [Fitbit Fitness Tracker Data](https://www.kaggle.com/datasets/arashnic/fitbit) (Public Domain)
+      - Includes daily activity, steps, sleep, and heart rate data.
+
