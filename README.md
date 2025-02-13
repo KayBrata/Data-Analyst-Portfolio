@@ -28,7 +28,7 @@ Analyzing Smart Device Usage Trends for Bellabeat
      
 - What are the trends in smart device usage?
       
--How can these trends apply to Bellabeat’s customers?
+- How can these trends apply to Bellabeat’s customers?
       
 - How can Bellabeat use these trends in marketing?
 
