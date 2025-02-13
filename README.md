@@ -21,3 +21,9 @@ Analyzing Smart Device Usage Trends for Bellabeat
 **Result:** Using Python functions and SQL queries, the analysis revealed that users tend to have higher activity levels in the morning and evening, while weekends show lower engagement. Sleep tracking is a crucial feature used consistently. The findings suggest marketing strategies should target peak activity hours and emphasize wellness tracking features.
 
 **Process**
+  **1. Business Task (ask)**
+   **objective:** Understand how consumers use smart devices and apply insights to improve Bellabeat’s marketing strategy. 
+   **key question:** 
+      1. What are the trends in smart device usage?
+      2. How can these trends apply to Bellabeat’s customers?
+      3. How can Bellabeat use these trends in marketing?
