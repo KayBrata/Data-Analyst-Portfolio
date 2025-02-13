@@ -10,7 +10,7 @@ This is a repository to showcase skills, share projects and track my progress in
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 Analyzing Smart Device Usage Trends for Bellabeat
 
-###Analyzing Smart Device Usage Trends for Bellabeat
+##Analyzing Smart Device Usage Trends for Bellabeat
 **Code:**
 
 **Description:** This project focuses on analyzing a dataset containing smart device usage data to understand user behavior and trends. The dataset includes information on daily activity, steps, heart rate, and sleep monitoring. The project involves data cleaning, exploratory data analysis (EDA), and statistical analysis to derive meaningful insights. The final recommendations are aimed at helping Bellabeat improve its marketing strategies based on user behavior patterns.
