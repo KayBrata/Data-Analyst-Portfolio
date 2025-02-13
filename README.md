@@ -44,7 +44,7 @@ Analyzing Smart Device Usage Trends for Bellabeat
      
   2. Heartrate seconds merge
      
-[SQL Querry](https://console.cloud.google.com/bigquery?sq=1039618084538:6769cb38275846f083c1b96e98c1612e)
+     [SQL Querry](https://console.cloud.google.com/bigquery?sq=1039618084538:6769cb38275846f083c1b96e98c1612e)
 
 ## 4. Perform Analysis (Analyze)
 1. Activity Trends
