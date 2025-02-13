@@ -43,16 +43,20 @@ Analyzing Smart Device Usage Trends for Bellabeat
      [SQL Querry](https://console.cloud.google.com/bigquery?sq=1039618084538:4cff56f03da34c1e828733829052eba6) 
      
   2. Heartrate seconds merge
+     
 [SQL Querry](https://console.cloud.google.com/bigquery?sq=1039618084538:6769cb38275846f083c1b96e98c1612e)
 
 ## 4. Perform Analysis (Analyze)
 1. Activity Trends
 Analyze average steps, calories, and activity minutes per user.
+
 [SQL Querry](https://console.cloud.google.com/bigquery?sq=1039618084538:68c7ac8950e64c8ea423357782c530ee)
 
 2. Sleep Patterns
 Find average sleep duration per user.
+
 [SQL Querry](https://console.cloud.google.com/bigquery?sq=1039618084538:f60664bd0d754d3aaf2ba5ca0d703b1b)
 
 3. Correlation Between Sleep and Activity
 Check if people who sleep more are more active.
+
