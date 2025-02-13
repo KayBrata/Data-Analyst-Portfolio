@@ -1,2 +1,1 @@
-# Data-Analyst-Portfolio
-Data Analyst Portfolio
+# Kay Brata - Data Analyst Portfolio
