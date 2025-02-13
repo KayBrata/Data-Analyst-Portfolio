@@ -35,6 +35,7 @@ Analyzing Smart Device Usage Trends for Bellabeat
   ## 2. Data Collection & Preparation (Prepare)
 - [Fitbit Fitness Tracker Data](https://www.kaggle.com/datasets/arashnic/fitbit) (Public Domain)
 - Includes daily activity, steps, sleep, and heart rate data.
+  
   **Tasks:**
 - Download the dataset and store it in an organized folder.
 -  Understand the dataset structure – Identify column names, data types, and relationships.
