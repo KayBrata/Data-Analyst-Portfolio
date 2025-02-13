@@ -39,5 +39,7 @@ Analyzing Smart Device Usage Trends for Bellabeat
 - I fix the data integrity using this code for :
 
   1. Minute sleep merge
-     [SQL Querry](https://console.cloud.google.com/bigquery?sq=1039618084538:4cff56f03da34c1e828733829052eba6)) (Public Domain)
+     
+     [SQL Querry](https://console.cloud.google.com/bigquery?sq=1039618084538:4cff56f03da34c1e828733829052eba6) (Public Domain)
+     
   2. Heartrate seconds merge
