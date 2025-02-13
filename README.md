@@ -22,7 +22,7 @@ Analyzing Smart Device Usage Trends for Bellabeat
 
 **Process**
 
-  **1. Business Task (ask)**
+  ## 1. Business Task (ask)
    **objective:** Understand how consumers use smart devices and apply insights to improve Bellabeat’s marketing strategy. 
      **key question:** 
      
@@ -32,6 +32,6 @@ Analyzing Smart Device Usage Trends for Bellabeat
       
       3. How can Bellabeat use these trends in marketing?
 
-  ## 📊 Dataset
+  ## 2. Dataset
 - [Fitbit Fitness Tracker Data](https://www.kaggle.com/datasets/arashnic/fitbit) (Public Domain)
 - Includes daily activity, steps, sleep, and heart rate data.
