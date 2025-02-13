@@ -24,7 +24,10 @@ Analyzing Smart Device Usage Trends for Bellabeat
 
   **1. Business Task (ask)**
    **objective:** Understand how consumers use smart devices and apply insights to improve Bellabeat’s marketing strategy. 
-   **key question:** 
+     **key question:** 
+     
       1. What are the trends in smart device usage?
+      
       2. How can these trends apply to Bellabeat’s customers?
+      
       3. How can Bellabeat use these trends in marketing?
