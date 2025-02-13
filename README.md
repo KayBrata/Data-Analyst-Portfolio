@@ -35,4 +35,4 @@ Analyzing Smart Device Usage Trends for Bellabeat
 - Download the dataset and store it in an organized folder.
 -  Understand the dataset structure – Identify column names, data types, and relationships.
 -   Check for biases – The dataset only has 35 participants, which might not fully represent Bellabeat's target audience.
--   Document Data Sources – Include dataset links and describe any limitations.
+
