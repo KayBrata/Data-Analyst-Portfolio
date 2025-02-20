@@ -2,8 +2,6 @@
 ## About
 Hi, I'm Kay! Motivated and analytical aspiring Data Analyst seeking an internship to apply and expand my skills in SQL, Excel, Tableau, and Python. Certified in Google Data Analytics and Sololearn, with hands-on experience in data cleaning, visualization, and insights generation through projects. Passionate about leveraging data to drive business decisions and eager to gain practical experience in a professional setting.
 
-My CV in
-
 This is a repository to showcase skills, share projects and track my progress in Data Analytics related topics.
 
 ## Portfolio Projects
